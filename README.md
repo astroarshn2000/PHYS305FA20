@@ -1,8 +1,8 @@
-# PHYS305 - Computational Physics (Fall '20)
+# PHYS 305 - Computational Physics (Fall '20)
 
 **Instructor: Prof. Elisabeth Krause (UArizona)** 
 
-**Author: Arsh Nadkarni (UArizona)**
+**Code Author: Arsh Nadkarni (UArizona)**
 
 PHYS 305 is a course for students of Physical Sciences that introduces basic computational methods for solving mathematical problems motivated from the physical sciences. Often problems drawn from actual physics will form the basis for the examples that will serve to master the techniques and algorithms taught.
 
@@ -18,4 +18,7 @@ PHYS 305 is a course for students of Physical Sciences that introduces basic com
 * Basic Machine Learning Algorithms   
 * Basic Introduction to the C Programming Language
 
+**Do not distribute without authorization!**
+
 ***© Arsh Nadkarni, 2020***
+
